@@ -1,4 +1,4 @@
-- 💻 Hi, I’m Manuel, Junior Full-Stack Developer living Berlin
+- 💻 Hi, I’m Manuel, a Junior Full-Stack Web Developer living Berlin
 - 🔨 I’m currently learning AWS Amplify and Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... "maerdaten3" at the big company that doesn't want to be evil 
