@@ -1,5 +1,5 @@
 - 💻 Hi, I’m Manuel, a Junior Full-Stack Web Developer living Berlin
-- 🔨 I’m currently learning AWS Amplify and Firebase
+- 🔨 I’m currently learning Firebase
 - 📫 How to reach me? "maerdaten3" at the big company that doesn't want to be evil 
 
 <!---
